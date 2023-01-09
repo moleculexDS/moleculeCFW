@@ -7,7 +7,7 @@ moleculecfw is open source, so you can grab the builds files and modified it or 
 
 # moleculeCFW files
 
-## HiyaDSi(DSi users)(mlci v0.1):
+## mlci(DSi users):
 
 1. HiyaDSi preconfigured nand
 2. New version of Twilight Menu
@@ -24,7 +24,7 @@ please backup your nand before installing hiyadsi, if console will bricked you c
 
 after installing unlaunch, you can delete camera exploit
 
-## Luma3ds(3ds users)(mlc3 v0.1):
+## mlc3(3ds users):
 
 1. FBI reloaded
 2. Anemone3ds
@@ -37,13 +37,16 @@ after installing unlaunch, you can delete camera exploit
 9. 3dsident
 10. 3DShell
 11. Luma3ds updater
-12. Wumiibo helper
-13. Nimbus (pretendo)
-14. rVerse (mod for luma)
+13. Wumiibo helper
+14. Nimbus (pretendo)
+15. rVerse (luma mod)
 
 ### !WARNING!
 
 exploit file is unique for everyone, create the movable.sed on https://bfm.nintendohomebrew.com/ and bb3 exploit on https://3dstools.nhnarwhal.com/#/bb3gen
+
+# update logs
+no logs
 
 # updating the moleculeCFW
 
