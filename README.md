@@ -65,7 +65,3 @@ no logs
 3. profit! your moleculeCFW updated!
 
 ### if you having a troubles with updating, just download a normal package and unpack it on root of your sdcard
-
-# help needed
-
-i need coder to create an updater app for moleculeCFW on 3ds and dsi. text me on discord if you want to help me: EndySwitch#9475
